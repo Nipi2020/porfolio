@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/porfolio/static/css/main.fa1d0dca.css",
+    "main.js": "/porfolio/static/js/main.6db3f22e.js",
+    "static/media/spiderman.jpg": "/porfolio/static/media/spiderman.2d8e48db70fee2a9fbe9.jpg",
+    "static/media/romance.jpg": "/porfolio/static/media/romance.c6f4ad0f361409d837cc.jpg",
+    "static/media/film-lampir.jpeg": "/porfolio/static/media/film-lampir.ec91934c9538b8095475.jpeg",
+    "static/media/Crime.jpg": "/porfolio/static/media/Crime.ec2435e2a5b1ed31d1b4.jpg",
+    "static/media/Sundel_Bolong.jpg": "/porfolio/static/media/Sundel_Bolong.c024b46df76303937daf.jpg",
+    "static/media/Suster_Ngesot.jpg": "/porfolio/static/media/Suster_Ngesot.22ba592fe8cf49e603c3.jpg",
+    "static/media/bg.jpg": "/porfolio/static/media/bg.7378122e688bcdb9664c.jpg",
+    "static/media/BLACK.jpg": "/porfolio/static/media/BLACK.c03e93a2ebbe863bdd8e.jpg",
+    "static/media/hacker1.jpeg": "/porfolio/static/media/hacker1.f2f3769f7b5589a7924d.jpeg",
+    "static/media/zombie.png": "/porfolio/static/media/zombie.ee999930bc711c1f5eec.png",
+    "static/media/HEAD.jpg": "/porfolio/static/media/HEAD.880dac2f0bc1dfc547ba.jpg",
+    "static/media/hacker6.jpeg": "/porfolio/static/media/hacker6.9bd38e4e5fb7e01a80e2.jpeg",
+    "static/media/PENTES.jpeg": "/porfolio/static/media/PENTES.f6da74a36df332561d02.jpeg",
+    "index.html": "/porfolio/index.html",
+    "main.fa1d0dca.css.map": "/porfolio/static/css/main.fa1d0dca.css.map",
+    "main.6db3f22e.js.map": "/porfolio/static/js/main.6db3f22e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa1d0dca.css",
+    "static/js/main.6db3f22e.js"
+  ]
+}
