@@ -1,0 +1,45 @@
+.myBG{
+    height: 100vh;
+    background: url("../asset/images/bg/bg.jpg");
+    background-size: cover;
+}
+.intro{
+    height: 300px;
+    display: flex;
+    padding: 70px;
+    margin: 70px;
+}
+.Gratis{
+    font-size:3rem;
+    font-weight: 800px;
+    line-height: 1;
+    text-shadow: 2px 2px black;
+    letter-spacing: 4px;
+}
+.Horor{
+    height:auto;
+    background: url("../asset/images/bg/romance.jpg");
+    background-size: cover;
+}
+
+.movieWrapper{
+
+}
+
+.moveimage {
+    height:auto;
+    background-color:black;
+    margin: 5px;
+    padding: 5px;
+
+}
+    
+
+.hackerBg{
+    height: auto;
+    background:url("../asset/images/bg/spiderman.jpg");
+    background-size: cover;
+}
+.images{
+    height: 500px;
+}

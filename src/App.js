@@ -1,23 +1,30 @@
-import logo from './logo.svg';
-import './App.css';
+
+
+
+import Navigation from './Components/Navigation';
+import './Style/landingPage.css'
+import Intro from './Components/Intro';
+import Hacker from './Components/Hacker';
+import Horor from './Components/Horor';
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      {/* INTOR SECTION */}
+  <div className='myBG'>
+        <Navigation/>
+        <Intro/>
+  </div>
+  {/* OF INTRO */}
+  {/* HOROR */}
+  <div className='Horor'>
+    <Horor/>
+  </div>
+  {/* of HOROR */}
+  <div className='hackerBg'>
+    <Hacker/>
+  </div>
     </div>
   );
 }
